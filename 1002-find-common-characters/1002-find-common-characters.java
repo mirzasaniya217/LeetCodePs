@@ -4,7 +4,7 @@ class Solution {
         Arrays.fill(minFreq, Integer.MAX_VALUE);
         for (String word : words) {
             int[] freq = new int[26];
-            for (char ch : word.toCharArray()){
+            for (char ch : word.toCharArray()) {
                 freq[ch - 'a']++;
             }
             for (int i = 0; i < 26; i++) {
@@ -12,11 +12,12 @@ class Solution {
             }
         }
         List<String> res = new ArrayList<>();
-        for (int i = 0; i < 26; i++) {
+        for (int i = 0; i <26; i++) {
             while(minFreq[i]-- > 0) {
                 res.add(String.valueOf((char)(i + 'a')));
             }
         }
         return res;
+        
     }
 }
