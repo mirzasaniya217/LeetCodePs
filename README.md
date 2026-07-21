@@ -15,5 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0027-remove-element) |
+| [0443-string-compression](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0443-string-compression) |
 | [1089-duplicate-zeros](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1089-duplicate-zeros) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
