@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0948-bag-of-tokens) |
 | [1089-duplicate-zeros](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1089-duplicate-zeros) |
 | [1991-find-the-middle-index-in-array](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1991-find-the-middle-index-in-array) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/mirzasaniya217/LeetCodePs/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -38,8 +39,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/mirzasaniya217/LeetCodePs/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/mirzasaniya217/LeetCodePs/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 <!---LeetCode Topics End-->
