@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0443-string-compression](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-bag-of-tokens](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0948-bag-of-tokens) |
+## Hash Table
+|  |
+| ------- |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
