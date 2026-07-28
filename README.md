@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -39,10 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/mirzasaniya217/LeetCodePs/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/mirzasaniya217/LeetCodePs/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
