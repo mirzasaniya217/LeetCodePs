@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0020-valid-parentheses) |
 | [0443-string-compression](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0678-valid-parenthesis-string) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mirzasaniya217/LeetCodePs/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0678-valid-parenthesis-string) |
 | [0948-bag-of-tokens](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0948-bag-of-tokens) |
 ## Sorting
 |  |
@@ -57,4 +59,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0678-valid-parenthesis-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/mirzasaniya217/LeetCodePs/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
